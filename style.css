@@ -1,0 +1,64 @@
+/* Genel Ayarlar */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+  }
+  
+  /* Başlıklar */
+  h1 {
+    font-size: 36px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    color: #34495e;
+  }
+  
+  /* Paragraflar */
+  p {
+    font-size: 18px;
+    max-width: 700px;
+    margin: 10px auto;
+    line-height: 1.6;
+  }
+  
+  /* Görseller */
+  .main-photo {
+    width: 200px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin: 20px auto;
+    display: block;
+  }
+  
+  /* Menü Listesi */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 30px;
+  }
+  
+  ul li {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  /* Linkler */
+  a {
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    color: #1abc9c;
+    text-decoration: underline;
+  }
+  
